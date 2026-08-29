@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -178,4 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
