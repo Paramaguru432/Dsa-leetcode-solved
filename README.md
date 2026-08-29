@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
+| [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0724-find-pivot-index) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0724-find-pivot-index) |
 ## Sliding Window
@@ -84,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
