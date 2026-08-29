@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
