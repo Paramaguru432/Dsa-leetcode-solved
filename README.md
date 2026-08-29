@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
@@ -270,10 +273,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Interactive
 |  |
