@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0041-first-missing-positive) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0278-first-bad-version) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
