@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -101,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
