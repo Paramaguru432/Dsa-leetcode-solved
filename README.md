@@ -126,10 +126,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
