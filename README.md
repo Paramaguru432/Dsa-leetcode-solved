@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 ## Hash Table
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
