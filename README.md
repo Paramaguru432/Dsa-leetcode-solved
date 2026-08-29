@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -247,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
