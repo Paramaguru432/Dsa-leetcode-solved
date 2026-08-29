@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -453,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
