@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
+| [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
