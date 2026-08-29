@@ -2,22 +2,20 @@ class Solution(object):
     def longestPrefix(self, s):
         n = len(s)
         lps = [0] * n
-        prefix_len = 0
-        i = 1
- 
-        while i < n:
-            if s[i] == s[prefix_len]: 
-                prefix_len += 1
-                lps[i] = prefix_len
-                i += 1
-            elif prefix_len > 0:
-                prefix_len = lps[prefix_len - 1]
-            else:
-                lps[i] = 0
-                i += 1
 
-        happy_prefix_len = lps[n - 1]
-        return s[:happy_prefix_len]
+        j = 0
+
+        for i in range(1, n):
+
+            while j > 0 and s[i] != s[j]:
+                j = lps[j - 1]
+
+            if s[i] == s[j]:
+                j += 1
+
+            lps[i] = j
+
+        return s[:lps[-1]]
         """
         :type s: str
         :rtype: str
