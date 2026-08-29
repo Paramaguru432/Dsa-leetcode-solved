@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0459-repeated-substring-pattern) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
 |  |
@@ -367,12 +373,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1392-longest-happy-prefix) |
