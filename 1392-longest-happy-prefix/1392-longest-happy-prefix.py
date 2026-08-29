@@ -16,8 +16,7 @@ class Solution(object):
                 lps[i] = 0
                 i += 1
 
-        happy_prefix_len = lps[n - 1]
-        return s[:happy_prefix_len]
+        return s[:lps[n-1]]
         """
         :type s: str
         :rtype: str
