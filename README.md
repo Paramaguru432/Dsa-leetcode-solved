@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0051-n-queens) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
