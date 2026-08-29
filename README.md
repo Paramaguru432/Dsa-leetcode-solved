@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -407,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
