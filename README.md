@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
