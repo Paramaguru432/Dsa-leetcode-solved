@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0704-binary-search) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
