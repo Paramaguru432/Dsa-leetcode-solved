@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
