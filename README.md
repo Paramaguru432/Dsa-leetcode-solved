@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
@@ -196,11 +199,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
