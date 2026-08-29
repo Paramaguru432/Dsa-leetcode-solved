@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0459-repeated-substring-pattern) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
+| [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
