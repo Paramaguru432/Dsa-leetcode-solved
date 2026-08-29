@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
