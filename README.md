@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
+| [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Quickselect
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
 ## Interactive
 |  |
