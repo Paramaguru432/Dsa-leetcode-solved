@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0191-number-of-1-bits) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
@@ -552,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0020-valid-parentheses) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
