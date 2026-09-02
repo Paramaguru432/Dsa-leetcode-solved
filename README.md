@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0739-daily-temperatures) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Algorithm X
 |  |
