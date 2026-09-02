@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
