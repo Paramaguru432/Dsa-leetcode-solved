@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0704-binary-search) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0767-reorganize-string) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0904-fruit-into-baskets) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
