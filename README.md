@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0969-pancake-sorting) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
@@ -680,4 +684,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
