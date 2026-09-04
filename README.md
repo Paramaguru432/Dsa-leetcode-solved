@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0090-subsets-ii) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0076-minimum-window-substring) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -558,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
