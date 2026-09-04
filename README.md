@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0402-remove-k-digits) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Lifting
@@ -710,4 +715,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
