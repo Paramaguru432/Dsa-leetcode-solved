@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0258-add-digits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0214-shortest-palindrome) |
