@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1122-relative-sort-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0746-min-cost-climbing-stairs) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -749,4 +751,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
