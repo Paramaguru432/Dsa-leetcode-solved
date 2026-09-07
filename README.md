@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0337-house-robber-iii) |
+| [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -732,4 +735,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
