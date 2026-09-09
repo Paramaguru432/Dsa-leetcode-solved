@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0337-house-robber-iii) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
