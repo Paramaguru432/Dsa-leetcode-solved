@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -773,10 +775,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 ## Triangulation
 |  |
