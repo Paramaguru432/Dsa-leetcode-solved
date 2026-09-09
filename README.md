@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0739-daily-temperatures) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0739-daily-temperatures) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1996-the-number-of-weak-characters-in-the-game) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
