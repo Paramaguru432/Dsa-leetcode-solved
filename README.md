@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0503-next-greater-element-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Algorithm X
 |  |
