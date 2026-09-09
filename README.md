@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0875-koko-eating-bananas) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
@@ -808,4 +811,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
