@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0733-flood-fill) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -820,4 +824,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
