@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0621-task-scheduler) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
