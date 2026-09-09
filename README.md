@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0075-sort-colors) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0079-word-search) |
