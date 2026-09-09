@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1044-longest-duplicate-substring) |
+| [1143-longest-common-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -802,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/0210-course-schedule-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Paramaguru432/Dsa-leetcode-solved/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
